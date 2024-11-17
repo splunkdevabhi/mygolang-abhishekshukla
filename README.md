@@ -1,4 +1,4 @@
-# Project Title
+# GoLang Basics
 
 This Project contains source code for my Learnings on GoLang Basics 
 
